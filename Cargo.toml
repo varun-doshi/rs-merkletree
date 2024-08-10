@@ -1,10 +1,12 @@
 [package]
 name = "rs-merkletree"
 description = "Rust library to create Merkle Trees"
+repository = "https://github.com/varun-doshi/rs-merkletree"
+documentation = "https://docs.rs/rs-merkletree/"
 version = "0.1.0"
 authors = ["Varun Doshi <doshivarun202@gmail.com>"]
 readme = "README.md"
-keywords = ["merkle", "data structures", "cryptography","hash"]
+keywords = ["merkle", "tree", "data structures", "cryptography", "hash"]
 categories = ["cryptography", "data-structures","development-tools::testing"]
 edition = "2021"
 license = "MIT OR Apache-2.0"

@@ -3,6 +3,7 @@ A Rust Library to generate Merkle Trees.
 
 
 <a href="https://crates.io"><img src="https://img.shields.io/static/v1?label=crates.io&message=0.1.0&color=white&link=https://docs.rs" /></a> <a href="https://docs.rs"><img src="https://img.shields.io/static/v1?label=docs&message=passing&color=blue&link=https://docs.rs" /></a> <a href="https://docs.rs"><img src="https://img.shields.io/static/v1?label=Build and test&message=passing&color=lightgreen&link=https://docs.rs" /></a>
+
 [![github](https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/varun-doshi/rs-merkletree)
 [![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/Varunx10)
 
